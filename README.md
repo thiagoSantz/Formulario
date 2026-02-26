@@ -1,10 +1,10 @@
-# Formulário de Cadastro — Thiago Dev
+# Formulário de Cadastro — Thiago Desenvolvimento
 
 ![Preview do Projeto](screenshot.png)
 
 ## 📋 Descrição
 
-Página de formulário de cadastro desenvolvida como exercício prático do curso **The Odin Project**. O projeto foi construído do zero com foco em aprender HTML e CSS, com um tema visual **dark/neon** personalizado, incluindo layout responsivo para dispositivos móveis.
+Página de formulário de cadastro desenvolvida como exercício prático do curso **The Odin Project**. O projeto foi construído do zero com foco em aprender usar formulpario no HTML e CSS, com um tema visual **dark/neon** personalizado, incluindo layout responsivo para dispositivos móveis.
 
 ## 🚀 Tecnologias Utilizadas
 
