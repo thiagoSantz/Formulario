@@ -12,8 +12,6 @@ Página de formulário de cadastro desenvolvida como exercício prático do curs
 - CSS3 (Flexbox, variáveis CSS, media queries, pseudo-elementos)
 - Google Fonts (Orbitron, Rajdhani)
 
-## 📸 Screenshot
-
 ## ▶️ Como Rodar o Projeto
 
 1. Clone o repositório:
